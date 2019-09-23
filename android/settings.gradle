@@ -1,0 +1,3 @@
+rootProject.name = 'SISAA_PROJECT'
+
+include ':app'
